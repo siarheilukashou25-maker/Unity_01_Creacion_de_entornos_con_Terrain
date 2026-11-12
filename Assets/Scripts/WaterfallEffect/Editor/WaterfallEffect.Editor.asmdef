@@ -1,0 +1,18 @@
+{
+    "name": "WaterfallEffect.Editor",
+    "rootNamespace": "WaterfallEffect.Editor",
+    "references": [
+        "WaterfallEffect.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
